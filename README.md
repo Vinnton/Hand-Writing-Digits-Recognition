@@ -1,0 +1,4 @@
+#Hand Writing Digits Recognition
+bin中存放的是函数拟合以及手写数字识别的matlab文件；doc中存放的是实验报告；src文件夹中存放的是手写数字识别的训练样本；
+tc中存放的是手写数字识别的测试样例。
+bin中手写数字识别的matlab程序请直接运行main.m，若不能运行请将src和tc中的训练样本以及测试样例和程序放在同个根目录下。
